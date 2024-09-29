@@ -22,6 +22,7 @@ The Boolean model in Information Retrieval (IR) is a fundamental model used for 
     <p>c) For each term in the query, it retrieves documents containing that term and performs Boolean operations (AND, OR, NOT) based on the query's structure.
 
 ### Program:
+```
 #DEVELOPED BY : D VERGIN JENIFER
 #REG NO: 212223240174
     import numpy as np
@@ -128,7 +129,7 @@ if __name__ == "__main__":
     else:
         print("No results found for the query.")
 
-
+```
 
 ### Output:
 ![371775452-0dd50b42-d13d-46fc-9509-ff65dbaf2632](https://github.com/user-attachments/assets/c32f5cf9-77ca-4d5d-bf14-012317c86959)
